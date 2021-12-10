@@ -15,7 +15,7 @@ const myProjects = [
       "A responsive E-Learning Website with User friendly UI and UX, like a LinkedIn. It operates with, all the required advanced functionalities in it, from watching any video to purchase it along with faster and safer payment procedure.",
     source: "https://github.com/sumitsingh-ara/Lynda_Backend",
     demoLink: "",
-    badge: "",
+    badge: "Vanilla JS",
     liveweb: "https://www.youtube.com/watch?v=2w3LIbzhUEc&t=129s",
   },
   {
@@ -25,6 +25,16 @@ const myProjects = [
       "A todo app designed and developed by me from scratch, while learning in the First week of React,integrated with Local Storage as well as supporting most of devices.",
     source: "https://github.com/sumitsingh-ara/React_Apps/tree/master/Todo_app",
     demoLink: "https://hasslefreetodo.netlify.app/",
+    badge: "ReactJS",
+    liveweb: "",
+  },
+   {
+    image: "/images/timer.jpg",
+    title: "Stopwatch and Timer",
+    description:
+      "A stopwatch along with timer , where u can feed time in secs, also responsive for most of devices.",
+    source: "https://github.com/sumitsingh-ara/React_Apps/tree/master/Todo_app",
+    demoLink: "https://timer-stopwatch-mu.vercel.app/",
     badge: "ReactJS",
     liveweb: "",
   },
