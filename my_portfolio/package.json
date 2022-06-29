@@ -9,6 +9,7 @@
     "bootstrap": "^4.5.3",
     "caniuse-lite": "^1.0.30001284",
     "framer-motion": "^3.3.0",
+    "netlify-cli": "^10.6.3",
     "node-sass": "^4.14.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",

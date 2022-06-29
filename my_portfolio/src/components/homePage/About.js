@@ -49,7 +49,7 @@ const About = () => {
               </p>
               <div className="d-flex align-items-center resume-section ">
                 <h6>Resume :</h6>
-                <a rel="noopener noreferrer" href="https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing" target="_blank">
+                <a rel="noopener noreferrer" href="https://drive.google.com/file/d/1pMMeoa6GHV-hOP5Aw2qkxTCWgL2fRyVK/view?usp=sharing" target="_blank">
                   View
                 </a>
               </div>
